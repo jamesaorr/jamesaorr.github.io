@@ -2,17 +2,29 @@ project:
   type: website
   output-dir: docs
 
+
 website:
-  title: "jamesaorr.github.io"
+  title: "James Orr"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - research.qmd
+      - publications.qmd
+      - text: "Tools & Resources"
+        href: apps.qmd
+      - href: https://www.jamesorrphoto.com
+        text: Photography
+        target: _blank
+      
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
+    #mainfont: arial
+    fontsize: 0.9rem
+    #fontcolor: "#0013d5"
+    #linkcolor: "#ff33f0"
     css: styles.css
     toc: true
 
