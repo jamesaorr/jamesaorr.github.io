@@ -4,15 +4,15 @@ project:
 
 
 website:
-  title: "James Orr"
+  title: "James Orr - Quantitative Ecology"
   navbar:
     left:
-      - text: "Home"
+      - text: "About"
         href: index.qmd
       - research.qmd
       - publications.qmd
-      - text: "Tools & Resources"
-        href: apps.qmd
+      #- text: "Tools & Resources"
+      #  href: apps.qmd
       - href: https://www.jamesorrphoto.com
         text: Photography
         target: _blank

@@ -1,11 +1,38 @@
 ---
-title: ""
+title: "Dr. James Orr"
+image: james-orr-ecology-photo.jpg
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 20em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:james.orr@uq.edu.au
+    - text: GitHub
+      icon: github
+      href: https://github.com/jamesaorr
+    - text: Twitter
+      icon: twitter
+      href: https://x.com/Jam_Orr
+    - text: Google Scholar
+      icon: mortarboard-fill
+      href: https://scholar.google.com/citations?user=JRjBw6kAAAAJ&hl=en
+    - text: Institution website
+      icon: bank2
+      href: https://about.uq.edu.au/experts/44708
+  id: ppc
+
 ---
 
-This is a Quarto website.
+:::{#ppc}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Research summary 
+Links to other parts 
 
-```{r}
-1 + 1
-```
+:::
+
+<br>
+<br>
+
+More stuff down here perhaps?
