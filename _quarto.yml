@@ -4,7 +4,7 @@ project:
 
 
 website:
-  title: "James Orr - Quantitative Ecology"
+  title: "James Orr"
   navbar:
     left:
       - text: "About"
@@ -26,7 +26,7 @@ format:
     #fontcolor: "#0013d5"
     #linkcolor: "#ff33f0"
     css: styles.css
-    toc: true
+    toc: false
 
 
 

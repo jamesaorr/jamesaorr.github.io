@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Dr. James Orr",
     "section": "",
-    "text": "Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     Twitter\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     Institution website\n  \n\n  \n  \nResearch summary Links to other parts\n\n\n\n \nMore stuff down here perhaps?"
+    "text": "Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     Twitter\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     Institution website\n  \n\n  \n  \n\n\nHello there! I’m an ecologist interested in how stressors impact the diversity, stability and functioning of ecosystems. I’m particularly interested in the interactions between species that lead to complex ecological dynamics and in the interactions between stressors that make predicting global change impacts so challenging.\nI use a combination of mathematical theory, experimental ecology, and research synthesis in my work. Although much of my work focuses on fundamental research questions in theoretical and community ecology, I am also interested in applied questions in the fields of global change biology, environmental science, and microbiology.\nI was recently awarded a Discovery Early Career Researcher Award from the Australian Research Council to study how the temporal synchronization of antibiotics and phages impacts the ecology of bacterial communities and the evolution of antimicrobial resistance.\nOn this website you can find an overview of my research, a list of my publications, a link to my environmental photography website, and a collection of resources that I’ve produced for other scientists to use."
   },
   {
     "objectID": "about.html",
@@ -19,5 +19,82 @@
     "title": "Research",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#quantitative-ecologist-studying-how-communities-respond-to-perturbations",
+    "href": "index.html#quantitative-ecologist-studying-how-communities-respond-to-perturbations",
+    "title": "Dr. James Orr",
+    "section": "",
+    "text": "Theoretical"
+  },
+  {
+    "objectID": "index.html#academic-history",
+    "href": "index.html#academic-history",
+    "title": "Dr. James Orr",
+    "section": "Academic History",
+    "text": "Academic History\n\n\n&lt;div class=\"timeline-item\"&gt;\n  &lt;h3&gt;Position Title 1&lt;/h3&gt;\n  &lt;p&gt;Institution 1, Year - Year&lt;/p&gt;\n  &lt;p&gt;Description of your role and achievements.&lt;/p&gt;\n&lt;/div&gt;\n&lt;div class=\"timeline-item\"&gt;\n  &lt;h3&gt;Position Title 2&lt;/h3&gt;\n  &lt;p&gt;Institution 2, Year - Year&lt;/p&gt;\n  &lt;p&gt;Description of your role and achievements.&lt;/p&gt;\n&lt;/div&gt;\n&lt;div class=\"timeline-item\"&gt;\n  &lt;h3&gt;Position Title 3&lt;/h3&gt;\n  &lt;p&gt;Institution 3, Year - Year&lt;/p&gt;\n  &lt;p&gt;Description of your role and achievements.&lt;/p&gt;\n&lt;/div&gt;\n&lt;div class=\"timeline-item\"&gt;\n  &lt;h3&gt;Position Title 4&lt;/h3&gt;\n  &lt;p&gt;Institution 4, Year - Year&lt;/p&gt;\n  &lt;p&gt;Description of your role and achievements.&lt;/p&gt;\n&lt;/div&gt;\n&lt;div class=\"timeline-item\"&gt;\n  &lt;h3&gt;Position Title 5&lt;/h3&gt;\n  &lt;p&gt;Institution 5, Year - Year&lt;/p&gt;\n  &lt;p&gt;Description of your role and achievements.&lt;/p&gt;\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "index.html#where-ive-worked",
+    "href": "index.html#where-ive-worked",
+    "title": "Dr. James Orr",
+    "section": "Where I’ve worked",
+    "text": "Where I’ve worked\n\n\n\nPosition Title 1\n\n\nInstitution 1, Year - Year\n\n\nDescription of your role and achievements.\n\n\n\n\nPosition Title 2\n\n\nInstitution 2, Year - Year\n\n\nDescription of your role and achievements.\n\n\n\n\nPosition Title 3\n\n\nInstitution 3, Year - Year\n\n\nDescription of your role and achievements.\n\n\n\n\nPosition Title 4\n\n\nInstitution 4, Year - Year\n\n\nDescription of your role and achievements."
+  },
+  {
+    "objectID": "index.html#position-title-1",
+    "href": "index.html#position-title-1",
+    "title": "Dr. James Orr",
+    "section": "Position Title 1",
+    "text": "Position Title 1\nInstitution 1, Year - Year\nDescription of your role and achievements."
+  },
+  {
+    "objectID": "index.html#position-title-2",
+    "href": "index.html#position-title-2",
+    "title": "Dr. James Orr",
+    "section": "Position Title 2",
+    "text": "Position Title 2\nInstitution 2, Year - Year\nDescription of your role and achievements."
+  },
+  {
+    "objectID": "index.html#position-title-3",
+    "href": "index.html#position-title-3",
+    "title": "Dr. James Orr",
+    "section": "Position Title 3",
+    "text": "Position Title 3\nInstitution 3, Year - Year\nDescription of your role and achievements."
+  },
+  {
+    "objectID": "index.html#position-title-4",
+    "href": "index.html#position-title-4",
+    "title": "Dr. James Orr",
+    "section": "Position Title 4",
+    "text": "Position Title 4\nInstitution 4, Year - Year\nDescription of your role and achievements."
+  },
+  {
+    "objectID": "index.html#position-title-5",
+    "href": "index.html#position-title-5",
+    "title": "Dr. James Orr",
+    "section": "Position Title 5",
+    "text": "Position Title 5\nInstitution 5, Year - Year\nDescription of your role and achievements."
+  },
+  {
+    "objectID": "index.html#where-ive-worked-1",
+    "href": "index.html#where-ive-worked-1",
+    "title": "Dr. James Orr",
+    "section": "Where I’ve Worked",
+    "text": "Where I’ve Worked\n\n\n&lt;h3&gt;Position Title 1&lt;/h3&gt;\n&lt;p&gt;Institution 1, Year - Year&lt;/p&gt;\n&lt;p&gt;Description of your role and achievements.&lt;/p&gt;\n\n\n&lt;h3&gt;Position Title 2&lt;/h3&gt;\n&lt;p&gt;Institution 2, Year - Year&lt;/p&gt;\n&lt;p&gt;Description of your role and achievements.&lt;/p&gt;"
+  },
+  {
+    "objectID": "index.html#my-timeline",
+    "href": "index.html#my-timeline",
+    "title": "Dr. James Orr",
+    "section": "My timeline",
+    "text": "My timeline\n\n\n\nPosition Title 1\n\n\nInstitution 1, Year - Year\n\n\nDescription of your role and achievements.\n\n\n\n\n\n\n\nPosition Title 2\n\n\nInstitution 2, Year - Year\n\n\nDescription of your role and achievements.\n\n\n\n\n\n\n\nPosition Title 3\n\n\nInstitution 3, Year - Year\n\n\nDescription of your role and achievements.\n\n\n\n\n\n\n\nPosition Title 4\n\n\nInstitution 4, Year - Year\n\n\nDescription of your role and achievements."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Dr. James Orr",
+    "section": "Experience",
+    "text": "Experience\n\n\n\nPosition Title 1\n\n\nInstitution 1, Year - Year\n\n\nDescription of your role and achievements.\n\n\n\n\n\n\n\nPosition Title 2\n\n\nInstitution 2, Year - Year\n\n\nDescription of your role and achievements.\n\n\n\n\n\n\n\nPosition Title 3\n\n\nInstitution 3, Year - Year\n\n\nDescription of your role and achievements.\n\n\n\n\n\n\n\nPosition Title 4\n\n\nInstitution 4, Year - Year\n\n\nDescription of your role and achievements."
   }
 ]

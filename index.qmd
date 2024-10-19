@@ -1,9 +1,14 @@
 ---
 title: "Dr. James Orr"
+format: 
+  html: 
+    default: true
+    markdown: true # Ensure raw HTML is rendered correctly
+subtitle: "Theoretical Ecology | Freshwater Ecology | Microbial Ecology"
 image: james-orr-ecology-photo.jpg
 about:
   template: trestles
-  image-shape: rounded
+  image-shape: round
   image-width: 20em
   links: 
     - text: Email
@@ -27,12 +32,52 @@ about:
 
 :::{#ppc}
 
-Research summary 
-Links to other parts 
+### Responses of ecological communities to stressors 
 
+Hello there! I'm an ecologist interested in how stressors impact the diversity, stability and functioning of ecosystems. I'm particularly interested in the <span style="color: #4982a0;">interactions between species</span> that lead to complex ecological dynamics and in the <span style="color: #4982a0;">interactions between stressors</span> that make predicting global change impacts so challenging. 
+
+I use a combination of <span style="color: #4982a0;">mathematical theory</span>, <span style="color: #4982a0;">experimental ecology</span>, and <span style="color: #4982a0;">research synthesis</span> in my work. Although much of my work focuses on fundamental research questions in theoretical and community ecology, I am also interested in applied questions in the fields of global change biology, environmental science, and microbiology. 
+
+I was recently awarded a Discovery Early Career Researcher Award from the Australian Research Council to study how the temporal synchronization of antibiotics and phages impacts the ecology of bacterial communities and the evolution of antimicrobial resistance.
+
+On this website you can find an overview of my research, a list of my publications, a link to my environmental photography website, and a collection of resources that I've produced for other scientists to use. 
 :::
 
 <br>
-<br>
 
-More stuff down here perhaps?
+## Experience
+
+
+<div class="timeline-section">
+
+<div class="timeline-item">
+  <h3>Position Title 1</h3>
+  <h4>Institution 1, Year - Year</h4>
+  <p>Description of your role and achievements.</p>
+</div>
+
+<div class="timeline-line"></div>
+
+<div class="timeline-item">
+  <h3>Position Title 2</h3>
+  <h4>Institution 2, Year - Year</h4>
+  <p>Description of your role and achievements.</p>
+</div>
+
+<div class="timeline-line"></div>
+
+<div class="timeline-item">
+  <h3>Position Title 3</h3>
+  <h4>Institution 3, Year - Year</h4>
+  <p>Description of your role and achievements.</p>
+</div>
+
+<div class="timeline-line"></div>
+
+<div class="timeline-item">
+  <h3>Position Title 4</h3>
+  <h4>Institution 4, Year - Year</h4>
+  <p>Description of your role and achievements.</p>
+</div>
+
+</div>
