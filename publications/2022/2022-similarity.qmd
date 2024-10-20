@@ -1,0 +1,10 @@
+---
+title: "Similarity of anthropogenic stressors is multifaceted and scale dependent"
+Year: 2022
+Authors: "Orr, J. A., Rillig, M. C., & Jackson, M. C. "
+Journal: "Natural Sciences"
+categories: [Global Change Biology, Multiple Stressors]
+doi: "http://doi.org/10.1002/ntls.20210076"
+---
+
+Human influences have created a world where all ecosystems are exposed to multiple stressors with diverse characteristics and impacts. Organizing this ever-expanding list of stressors presents the opportunity to derive general rules, to understand effects and to improve predictions. Assessing the similarity of anthropogenic stressors can be approached from different perspectives, which we synthesize here. Stressors can be compared by asking what they are (traits), why they are present (sources), where they occur (spatial overlap), when they occur (temporal overlap), how they affect organisms (mode of action) and who they affect (co-tolerance). Some concepts of stressor similarity are thus related to intrinsic features of the stressors themselves (e.g. sources and traits), while other concepts pertain to the similarity of the effects of stressors and are therefore dependent on the ecological scale at which the effects of stressors are measured (e.g. mode of action and co-tolerance). Viewing stressor similarity as a multi-faceted and scale-dependent concept will open new avenues for stressor classification, will enhance predictions of the combined effects of stressors and may even inform the management of novel or emerging stressors.

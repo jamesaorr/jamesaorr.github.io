@@ -1,0 +1,10 @@
+---
+title: "Rapid evolution generates synergism between multiple stressors: Linking theory and an evolution experiment"
+Year: 2022
+Authors: "Orr, J. A., Luijckx, P., Arnoldi, J. F., Jackson, A. L., & Piggott, J. J."
+Journal: "Global Change Biology"
+categories: [Global Change Biology, Multiple Stressors, Theory, Freshwater]
+doi: "https://doi.org/10.1111/gcb.15633"
+---
+
+Global change encompasses many co-occurring anthropogenic stressors. Understanding the interactions between these multiple stressors, whether they be additive, antagonistic or synergistic, is critical for ecosystem managers when prioritizing which stressors to mitigate in the face of global change. While such interactions between stressors appear prevalent, it remains unclear if and how these interactions change over time, as the majority of multiple-stressor studies rarely span multiple generations of study organisms. Although meta-analyses have reported some intriguing temporal trends in stressor interactions, for example that synergism may take time to emerge, the mechanistic basis for such observations is unknown. In this study, by analysing data from an evolution experiment with the rotifer Brachionus calyciflorus (~35 generations and 31,320 observations), we show that adaptation to multiple stressors shifts stressor interactions towards synergism. We show that trade-offs, where populations cannot optimally perform multiple tasks (i.e. adapting to multiple stressors), generate this bias towards synergism. We also show that removal of stressors from evolved populations does not necessarily increase fitness and that there is variation in the evolutionary trajectories of populations that experienced the same stressor regimes. Our results highlight outstanding questions at the interface between evolution and global change biology, and illustrate the importance of considering rapid adaptation when managing or restoring ecosystems subjected to multiple stressors under global change.

@@ -1,0 +1,10 @@
+---
+title: "Studying interactions among anthropogenic stressors in freshwater ecosystems: A systematic review of 2396 multiple‐stressor experiments"
+Year: 2024
+Authors: "Orr, J. A., Macaulay, S. J., Mordente, A., Burgess, B., Albini, D., Hunn, J. G., ... & Jackson, M. C. "
+Journal: "Ecology Letters"
+categories: [Global Change Biology, Multiple Stressors, Freshwater, Synthesis, Methods]
+doi: "https://doi.org/10.1111/ele.14463"
+---
+
+Understanding the interactions among anthropogenic stressors is critical for effective conservation and management of ecosystems. Freshwater scientists have invested considerable resources in conducting factorial experiments to disentangle stressor interactions by testing their individual and combined effects. However, the diversity of stressors and systems studied has hindered previous syntheses of this body of research. To overcome this challenge, we used a novel machine learning framework to identify relevant studies from over 235,000 publications. Our synthesis resulted in a new dataset of 2,396 multiple-stressor experiments in freshwater systems. By summarizing the methods used in these studies, quantifying trends in the popularity of investigated stressors, and performing co-occurrence analysis, we produce the most comprehensive overview of this diverse field of research to date. We provide both a taxonomy grouping the 909 investigated stressors into 31 classes, and an open-source and interactive version of the dataset (https://jamesaorr.shinyapps.io/freshwater-multiple-stressors/). Inspired by our results, we provide a framework to help clarify whether statistical interactions detected by factorial experiments align with stressor interactions of interest, and we outline general guidelines for the design of multiple-stressor experiments relevant to any system. We conclude by highlighting research directions required to better understand freshwater ecosystems facing multiple stressors.

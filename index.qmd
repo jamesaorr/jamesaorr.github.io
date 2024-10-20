@@ -51,33 +51,33 @@ On this website you can find an overview of my research, a list of my publicatio
 <div class="timeline-section">
 
 <div class="timeline-item">
-  <h3>Position Title 1</h3>
-  <h4>Institution 1, Year - Year</h4>
-  <p>Description of your role and achievements.</p>
+  <h3>ARC DECRA, Independent Fellowship</h3>
+  <h4>University of Queensland, Australia, 2025 - 2028</h4>
+  <p>....</p>
 </div>
 
 <div class="timeline-line"></div>
 
 <div class="timeline-item">
-  <h3>Position Title 2</h3>
-  <h4>Institution 2, Year - Year</h4>
-  <p>Description of your role and achievements.</p>
+  <h3>Postdoctoral Resarcher</h3>
+  <h4>University of Queensland, Australia, 2024 - 2025</h4>
+  <p>....</p>
 </div>
 
 <div class="timeline-line"></div>
 
 <div class="timeline-item">
-  <h3>Position Title 3</h3>
-  <h4>Institution 3, Year - Year</h4>
-  <p>Description of your role and achievements.</p>
+  <h3>Postdoctoral Resarcher</h3>
+  <h4>University of Oxford, UK, 2021 - 2024</h4>
+  <p>...</p>
 </div>
 
 <div class="timeline-line"></div>
 
 <div class="timeline-item">
-  <h3>Position Title 4</h3>
-  <h4>Institution 4, Year - Year</h4>
-  <p>Description of your role and achievements.</p>
+  <h3>PhD in Theoretical Ecology</h3>
+  <h4>Trinity College Dublin, Ireland, 2018 - 2021</h4>
+  <p>...</p>
 </div>
 
 </div>
