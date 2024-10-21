@@ -9,10 +9,8 @@ website:
     left:
       - text: "About"
         href: index.qmd
-      - research.qmd
       - publications.qmd
-      #- text: "Tools & Resources"
-      #  href: apps.qmd
+      - resources.qmd
       - href: https://www.jamesorrphoto.com
         text: Photography
         target: _blank
