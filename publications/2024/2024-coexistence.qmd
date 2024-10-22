@@ -1,0 +1,10 @@
+---
+title: "Coexistence theory for microbial ecology, and vice versa"
+Year: 2024
+Authors: "Orr, J. A., Armitage D. W., & Letten, A. D."
+Journal: "Preprint, EcoEvoRxiv"
+categories: [Theory, Synthesis, Methods]
+doi: "https://doi.org/10.32942/X2RS6N"
+---
+
+Classical models from theoretical ecology are seeing increasing uptake in microbial ecology, but there remains rich potential for closer cross-pollination. Here we explore opportunities for stronger integration of ecological theory into microbial research (and vice versa) through the lens of so-called "modern" coexistence theory. Coexistence theory encompasses a body of theory for disentangling the contributions of different fluctuation-independent (e.g., resource partitioning) and fluctuation-dependent (e.g., environmental variability) mechanisms to species coexistence. We begin with a short primer on the fundamental concepts of coexistence theory, with an emphasis on the relevance to microbial communities. We next present a systematic review, which highlights the paucity of empirical applications of coexistence theory in microbial systems. In light of this gap, we then identify and discuss ways in which: i) coexistence theory can help to answer fundamental and applied questions in microbial ecology, particularly in spatio-temporally heterogenous environments, and ii) experimental microbial systems can be leveraged to validate and advance coexistence theory. Finally, we address several unique, but often surmountable, empirical challenges posed by microbial systems, as well as some conceptual limitations. Nevertheless, thoughtful integration of coexistence theory into microbial ecology presents a wealth of opportunities for the advancement of both theoretical and microbial ecology.
