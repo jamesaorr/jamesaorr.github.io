@@ -1,0 +1,23 @@
+---
+title: "Freshwater multiple-stressor experiments"
+date: 2024-06-25 # year-month-day
+categories: [Datasets]
+description: Dataset of 2396 multiple-stressor experiments conducted in freshwater systems.
+images: "/resources/2024/2024-freshwater-stressors.png"
+doi: https://doi.org/10.1111/ele.14463
+
+---
+
+<br>
+
+This dataset is the product of a systematic review conducted by a large international team of ecologists, ecotoxicologists, and environmental scientists, entitled *Studying interactions among anthropogenic stressors in freshwater ecosystems: A systematic review of 2396 multiple-stressor experiments* ([https://doi.org/10.1111/ele.14463](https://doi.org/10.1111/ele.14463)).
+
+The dataset contains 2,396 experiments that tested the individual and combined effects of multiple anthropogenic stressors on freshwater biodiversity and is available in two versions:
+
+- **Static Version**: Available as a [csv file in the  Zenodo repository](https://zenodo.org/doi/10.5281/zenodo.11100467).
+
+- **Interactive Version**: Available as a [web application](https://jamesaorr.shinyapps.io/freshwater-multiple-stressors/), where you can visualize, filter, and download subsets of the dataset. The web application can also be used to explore our taxonomy of anthropogenic stressors and our co-occurrence networks of investigated stressors.
+
+<br>
+
+![Co-occurrence network of investigated stressors](/resources/2024/2024-freshwater-stressors.png)

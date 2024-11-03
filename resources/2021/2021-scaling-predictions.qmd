@@ -1,0 +1,19 @@
+---
+title: "Scaling up uncertain predictions"
+date: 2021-05-05 # year-month-day
+categories: [Methods]
+description: A method to account for the dimensional effects associated with scaling up uncertain predictions.
+images: "/resources/2021/2021-scaling-predictions.png"
+doi: https://doi.org/10.1111/2041-210X.13621
+
+---
+
+<br>
+
+The process of scaling up predictions to higher levels of organization has a surprising consequence: it tends to systematically underestimate the magnitude of system-level change, an effect whose significance grows with the system's dimensionality. This stems from a geometrical observation: **in high dimensions there are more ways to be more different, than ways to be more similar**. This effect, and methods that can be used to account for it, is described in our paper *Scaling up uncertain predictions to higher levels of organisation tends to underestimate change* ([https://doi.org/10.1111/2041-210X.13621](https://doi.org/10.1111/2041-210X.13621)).
+
+We have also provided a ([web application](https://jamesaorr.shinyapps.io/scaling-up-predictions/)) that can be used to visualize and explore this effect. The app also contains code (in R, MATLAB, and Python) that can be used to plot the theoretical expectations
+
+<br>
+
+![The bias towards underestimate of change increases with the magnitude of error and the dimensionality of the system](/resources/2021/2021-scaling-predictions.png)

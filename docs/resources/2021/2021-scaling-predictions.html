@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2021-05-05">
+<meta name="description" content="A method to account for the dimensional effects associated with scaling up uncertain predictions.">
 
-<title>James Orr - Resources</title>
+<title>James Orr - Scaling up uncertain predictions</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +25,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -61,50 +61,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-description','listing-image','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">James Orr</span>
     </a>
   </div>
@@ -115,15 +84,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
+    <a class="nav-link" href="../../index.html" rel="" target="">
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html" rel="" target="">
+    <a class="nav-link" href="../../publications.html" rel="" target="">
  <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./resources.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="../../resources.html" rel="" target="">
  <span class="menu-text">Resources</span></a>
   </li>  
   <li class="nav-item">
@@ -141,95 +110,63 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Datasets">Datasets <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Methods">Methods <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Resources</h1>
-</div>
+<h1 class="title">Scaling up uncertain predictions</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Methods</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    A method to account for the dimensional effects associated with scaling up uncertain predictions.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 5, 2021</p>
+    </div>
+  </div>
   
     
+    <div>
+    <div class="quarto-title-meta-heading">Doi</div>
+    <div class="quarto-title-meta-contents">
+      <p class="doi">
+        <a href="https://doi.org/https://doi.org/10.1111/2041-210X.13621">https://doi.org/10.1111/2041-210X.13621</a>
+      </p>
+    </div>
+  </div>
   </div>
   
 
 </header>
 
+<p><br></p>
+<p>The process of scaling up predictions to higher levels of organization has a surprising consequence: it tends to systematically underestimate the magnitude of system-level change, an effect whose significance grows with the system’s dimensionality. This stems from a geometrical observation: <strong>in high dimensions there are more ways to be more different, than ways to be more similar</strong>. This effect, and methods that can be used to account for it, is described in our paper <em>Scaling up uncertain predictions to higher levels of organisation tends to underestimate change</em> (<a href="https://doi.org/10.1111/2041-210X.13621">https://doi.org/10.1111/2041-210X.13621</a>).</p>
+<p>We have also provided a (<a href="https://jamesaorr.shinyapps.io/scaling-up-predictions/">web application</a>) that can be used to visualize and explore this effect. The app also contains code (in R, MATLAB, and Python) that can be used to plot the theoretical expectations</p>
+<p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../resources/2021/2021-scaling-predictions.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">The bias towards underestimate of change increases with the magnitude of error and the dimensionality of the system</figcaption>
+</figure>
+</div>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Datasets" data-listing-date-sort="1719237600000" data-listing-file-modified-sort="1730605487965" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<a href="./resources/2024/2024-freshwater-stressors.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="resources/2024/2024-freshwater-stressors.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Freshwater multiple-stressor experiments
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Datasets'); return false;">
-Datasets
-</div>
-</div>
-<div class="card-text listing-description">
-Dataset of 2396 multiple-stressor experiments conducted in freshwater systems.
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-June 25, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="Methods" data-listing-date-sort="1620136800000" data-listing-file-modified-sort="1730605501525" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<a href="./resources/2021/2021-scaling-predictions.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="resources/2021/2021-scaling-predictions.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Scaling up uncertain predictions
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Methods'); return false;">
-Methods
-</div>
-</div>
-<div class="card-text listing-description">
-A method to account for the dimensional effects associated with scaling up uncertain predictions.
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-May 5, 2021
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

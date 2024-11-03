@@ -6,6 +6,7 @@
       "/publications/2024/2024-heatwaves.html",
       "/publications/2024/2024-individual.html",
       "/publications/2024/2024-modelling.html",
+      "/publications/2024/2024-priced.html",
       "/publications/2024/2024-studying.html",
       "/publications/2024/2024-promise.html",
       "/publications/2023/2023-factors.html",
@@ -15,6 +16,13 @@
       "/publications/2021/2021-mechanisms.html",
       "/publications/2021/2021-scaling.html",
       "/publications/2020/2020-towards.html"
+    ]
+  },
+  {
+    "listing": "/resources.html",
+    "items": [
+      "/resources/2024/2024-freshwater-stressors.html",
+      "/resources/2021/2021-scaling-predictions.html"
     ]
   }
 ]

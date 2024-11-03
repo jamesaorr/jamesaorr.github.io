@@ -1,4 +1,13 @@
 ---
 title: "Resources"
+listing:
+  contents:
+    - resources
+  type: grid
+  categories: true
+  fields: [title, description, image, date, categories]
+  date-format: "long"
+  filter-ui: [title, description, categories]
+
 ---
 
