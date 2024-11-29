@@ -3,7 +3,7 @@ title: "Coexistence theory for microbial ecology, and vice versa"
 Year: 2024
 Authors: "Orr, J. A., Armitage D. W., & Letten, A. D."
 Journal: "Preprint, EcoEvoRxiv"
-categories: [Theory, Synthesis, Methods]
+categories: [Theory, Synthesis, Methods, Microbial Ecology]
 doi: "https://doi.org/10.32942/X2RS6N"
 ---
 

@@ -1,0 +1,10 @@
+---
+title: "Variability of functional and biodiversity responses to perturbations is predictable and informative"
+Year: 2024
+Authors: "Orr, J. A., Piggott, J. J., Jackson, A. L., Jackson, M. C., & Arnoldi, J. F."
+Journal: "Nature Communications"
+categories: [Global Change Biology, Methods, Theory, Microbial Ecology]
+doi: "https://doi.org/10.1038/s41467-024-54540-3"
+---
+
+Perturbations such as climate change, invasive species and pollution, impact the functioning and diversity of ecosystems. However diversity has many meanings, and ecosystems provide a plethora of functions. Thus, on top of the various perturbations that global change represents, there are also many ways to measure a perturbation’s ecological impact. This leads to an overwhelming response variability, which undermines hopes of prediction. Here, we show that this variability can instead provide insights into hidden features of functions and of species responses to perturbations. By analysing a dataset of global change experiments in microbial soil systems we first show that the variability of functional and diversity responses to perturbations is not random; functions that are mechanistically similar tend to respond coherently. Furthermore, diversity metrics and broad functions (e.g. total biomass) systematically respond in opposite ways. We then formalise these observations to demonstrate, using geometrical arguments, simulations, and a theory-driven analysis of the empirical data, that the response variability of ecosystems is not only predictable, but can also be used to access useful information about species contributions to functions and population-level responses to perturbations. Our research offers a powerful framework for understanding the complexity of ecological responses to global change.

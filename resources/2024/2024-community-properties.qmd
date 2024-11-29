@@ -1,0 +1,28 @@
+---
+title: "Mismatches between community properties"
+date: 2024-11-28 # year-month-day
+categories: [Methods]
+description: Tutorial on the variability of functional and biodiversity responses to perturbations.
+images: "/resources/2024/2024-community-properties.png"
+doi: https://doi.org/10.1038/s41467-024-54540-3
+
+---
+
+<br>
+
+**Link to the tutorial**: https://jamesaorr.github.io/community-properties-tutorial/intro.html
+
+This tutorial is aimed at empirical ecologists interested in using the theory developed in the paper “Variability of functional and biodiversity responses to perturbations is predictable and informative”, which is now published at Nature Communications: https://doi.org/10.1038/s41467-024-54540-3. 
+
+Using geometric arguments we demonstrate how you can gain novel insights into the functioning of ecosystems and into the perturbations, such as climate change, pollution, or invasions, that impact them. A central element of the theory is the *proportion of mismatches* between community properties in their responses to perturbations. These methods are therefore better suited to larger datasets (e.g., datasets from experiments with many replicates, or datasets generated in systematic review). 
+
+By recognising the link between the variability of community-level responses to perturbations to the underlying species-level responses to those perturbations, our framework can quantify: 
+
+1. The similarity of ecosystem functions in terms of which species are contributing to them. 
+2. How broad or narrow an ecosystem function is.
+3. The response diversity of a community across different perturbations.
+4. How much species-level responses to perturbations are proportional to their initial abundances. 
+
+<br>
+
+![Application of the framework to a dataset of global change experiments in microbial soil systems](/resources/2024/2024-community-properties.png)
