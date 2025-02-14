@@ -5,7 +5,7 @@ format:
     default: true
     markdown: true 
 #subtitle: "Theoretical Ecology | Freshwater Ecology | Microbial Ecology"
-subtitle: "Global Change Ecology | Theoretical Ecology | Ecosystem Functioning"
+subtitle: "Global Change Ecology | Multiple Stressors | Theoretical Ecology"
 image: james-orr-ecology-photo.jpg
 about:
   template: trestles
