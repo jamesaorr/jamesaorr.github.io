@@ -1,0 +1,19 @@
+---
+title: "Diversity metrics Shiny app"
+date: 2025-03-01 # year-month-day
+categories: [Teaching]
+description: Shiny app for teaching diversity metrics to undergraduate students
+images: "/resources/2025/2025-diversity-metrics.png"
+doi: https://github.com/jamesaorr/diversity-shiny
+
+---
+
+<br>
+
+This Shiny app is used for teaching diversity metrics to undergraduate students at the University of Queensland.
+
+This Shiny app lets you explore the most common diversity metrics that are used in ecology. You can enter species abundances in the text box below and the app will produce the corresponding rank abundance plot. The app will also print the values of the traditional diversity metrics for your community. Additionally, you can explore Hill diversity, which connects all of the traditional metrics and gives them all the same units.
+
+<br>
+
+![Diversity metrics Shiny app](/resources/2025/2025-diversity-metrics.png)

@@ -4,8 +4,8 @@ format:
   html: 
     default: true
     markdown: true 
-#subtitle: "Theoretical Ecology | Freshwater Ecology | Microbial Ecology"
-subtitle: "Global Change Ecology | Multiple Stressors | Theoretical Ecology"
+subtitle: "Theoretical Ecology | Global Change Ecology | Microbial Ecology"
+#subtitle: "Global Change Ecology | Multiple Stressors | Theoretical Ecology"
 image: james-orr-ecology-photo.jpg
 about:
   template: trestles
@@ -51,11 +51,11 @@ about:
 
 ### Responses of ecological communities to stressors 
 
-Hello there! I'm an ecologist interested in how stressors impact the diversity, stability, and functioning of ecological communities. I'm particularly interested in the <strong>interactions between species</strong> that lead to complex dynamics and in the <strong>interactions between multiple stressors</strong> that make predicting global change impacts so challenging. 
+Hello there! I'm an ecologist interested in how stressors impact the diversity, stability, and functioning of ecological communities. I'm particularly interested in the <strong>interactions between species</strong> that lead to complex dynamics and in the <strong>interactions between multiple stressors</strong> that make predicting biodiversity responses to global change across time and space so challenging. 
 
-I use a combination of <strong>mathematical theory</strong>, <strong>experimental ecology</strong>, and <strong>research synthesis</strong> in my work. Although much of my research focuses on fundamental questions in theoretical and community ecology, I am also interested in applied questions in the fields of global change biology, environmental science, ecosystem restoration, and microbiology.
+I use a combination of <strong>mathematical theory</strong>, <strong>experimental ecology</strong>, and <strong>research synthesis</strong> in my work. Although much of my research focuses on fundamental questions in theoretical and community ecology, I am also interested in applied questions in the fields of global change biology, environmental science, and microbiology.
 
-I was recently awarded a Discovery Early Career Researcher Award from the Australian Research Council to study how the temporal synchronization of antibiotics and phages impacts the ecology of bacterial communities and the evolution of antimicrobial resistance. This is part of a more general research agenda to understand how multiple stressors can be temporally manipulated to minimize ecological impacts.
+I was recently awarded a Discovery Early Career Researcher Award from the Australian Research Council to study how the temporal synchronization of antibiotics and phages impacts the ecology of bacterial communities and the evolution of antimicrobial resistance. This is part of a more general research agenda to understand how multiple stressors can be temporally manipulated to maximize or minimize ecological impacts.
 
 On this website, you can find a list of my <a href="/publications.qmd">publications</a> (categorized by topic) and a collection of <a href="/resources.qmd">resources</a> that I've produced for other scientists to use.
 
@@ -72,7 +72,7 @@ On this website, you can find a list of my <a href="/publications.qmd">publicati
 <div class="timeline-item">
   <h3>ARC DECRA, Independent Fellowship</h3>
   <h4>University of Queensland, Australia, 2025 - 2028</h4>
-  <p>My research project will leverage novel ecological theory to understand how the temporal synchronization of antibiotic and phage exposure influences the ecology and evolution of bacterial communities. I  will be hosted in Dr. Andrew Letten's microbial ecology research group. I will also work closely with Dr. Siobhán O'Brien at Trinity College Dublin and Dr. Jeremy Barr at Monash University. </p>
+  <p>My research project leverages novel ecological theory to understand how the temporal synchronization of antibiotic and phage exposure influences the ecology and evolution of bacterial communities. I  am hosted in Dr. Andrew Letten's microbial ecology research group. I also work closely with Dr. Siobhán O'Brien at Trinity College Dublin and Dr. Jeremy Barr at Monash University. </p>
 </div>
 
 <div class="timeline-line"></div>
@@ -80,7 +80,7 @@ On this website, you can find a list of my <a href="/publications.qmd">publicati
 <div class="timeline-item">
   <h3>Postdoctoral Researcher</h3>
   <h4>University of Queensland, Australia, 2024 - 2025</h4>
-  <p>I am a member of Dr. Andrew Letten’s microbial ecology research group. I am working on questions in fundamental ecology using theory (e.g., consumer-resource modelling, coexistence-theory) and experimental microbial ecology (e.g., using chemostats). </p>
+  <p>I was a postdoc in Dr. Andrew Letten’s microbial ecology research group. I worked on questions in fundamental ecology using mathematical theory (e.g., consumer-resource theory, coexistence theory) and experimental microbial ecology (e.g., using chemostats). </p>
 </div>
 
 <div class="timeline-line"></div>
@@ -88,7 +88,7 @@ On this website, you can find a list of my <a href="/publications.qmd">publicati
 <div class="timeline-item">
   <h3>Postdoctoral Researcher</h3>
   <h4>University of Oxford, UK, 2021 - 2024</h4>
-  <p>I worked in Dr. Michelle Jackson’s aquatic ecology research group on the project: "Cumulative impacts of multiple stressors: improving temporal and biological realism".  I used ecological theory, freshwater mesocosm experiments, ecological modelling, and synthesis approaches to study multiple stressor impacts, with a particular focus on the temporal dynamics of stressors. </p>
+  <p>I worked in Dr. Michelle Jackson’s aquatic ecology research group for three years. I used ecological theory, freshwater mesocosm experiments, ecological modelling, and synthesis approaches to study global change impacts across multiple spatial scales, with a particular focus on the temporal dynamics of stressors. </p>
 </div>
 
 <div class="timeline-line"></div>
