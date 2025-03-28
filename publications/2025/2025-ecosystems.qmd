@@ -2,9 +2,9 @@
 title: "Ecosystems have multiple interacting processes that buffer against co-occurring stressors"
 Year: 2025
 Authors: "Kong, X., Xu, B., Orr, J. A., Meidl, P., Rillig, M. C., Yang, G.. "
-Journal: "Trends in Ecology & Evolution (in press)"
+Journal: "Trends in Ecology & Evolution"
 categories: [Global Change Biology, Multiple Stressors]
-doi: ""
+doi: https://doi.org/10.1016/j.tree.2025.03.002
 ---
 
 Ecosystems worldwide are threatened by co-occurring anthropogenic stressors. Much is known about single buffering processes (e.g., biodiversity, adaptation) which mitigate the effects of single or several stressors on ecosystem properties and functions, but how buffering processes reduce the effects of multiple co-occurring stressors are poorly understood. Here we outline how some single processes (e.g., cross-tolerance) can buffer the effects of multiple stressors, while multiple buffering processes can act jointly across ecological and temporal scales to reduce the effects of single or multiple stressors. Synergistic interactions between multiple buffering processes can further enhance ecosystem resistance to multiple stressors. A wider awareness of ecosystems’ interacting buffering processes will enhance our understanding of ecosystem stability in the face of multiple stressors.
