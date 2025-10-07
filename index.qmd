@@ -4,7 +4,7 @@ format:
   html: 
     default: true
     markdown: true 
-subtitle: "Theoretical Ecology | Global Change Ecology | Microbial Ecology"
+subtitle: "Microbial Ecology | Theoretical Ecology | Global Change Ecology"
 #subtitle: "Global Change Ecology | Multiple Stressors | Theoretical Ecology"
 image: james-orr-ecology-photo.jpg
 about:
@@ -51,11 +51,11 @@ about:
 
 ### Responses of ecological communities to stressors 
 
-Hello there! I'm an ecologist interested in how stressors impact the diversity, stability, and functioning of ecological communities. I'm particularly interested in the <strong>interactions between species</strong> that lead to complex dynamics and in the <strong>interactions between multiple stressors</strong> that make predicting biodiversity responses to global change across time and space so challenging. 
+Hello there! I'm a microbial ecologist interested in how stressors impact the diversity, stability, and functioning of ecological communities. I'm particularly interested in the <strong>interactions between species</strong> that lead to complex dynamics and in the <strong>interactions between multiple stressors</strong> that make predicting biodiversity responses to global change across time and space so challenging. 
 
-I use a combination of <strong>mathematical theory</strong>, <strong>experimental ecology</strong>, and <strong>research synthesis</strong> in my work. Although much of my research focuses on fundamental questions in theoretical and community ecology, I am also interested in applied questions in the fields of global change biology, environmental science, and microbiology.
+I use a combination of <strong>mathematical theory</strong>, <strong>microbial experimental systems</strong>, and <strong>research synthesis</strong> in my work. Although much of my research focuses on fundamental questions in theoretical and microbial ecology, I am also interested in applied questions related to antimicrobial resistance, bacteria-phage dynamics, and ecosystem functioning under anthropogenic stressors.
 
-I was recently awarded a Discovery Early Career Researcher Award from the Australian Research Council to study how the temporal synchronization of antibiotics and phages impacts the ecology of bacterial communities and the evolution of antimicrobial resistance. This is part of a more general research agenda to understand how multiple stressors can be temporally manipulated to maximize or minimize ecological impacts.
+I was recently awarded a Discovery Early Career Researcher Award from the Australian Research Council to study how the temporal synchronization of antibiotics and phages impacts the ecology of bacterial communities and the evolution of antimicrobial resistance. This is part of a more general research agenda to understand eco-evolutionary responses to multiple stressors.
 
 On this website, you can find a list of my <a href="/publications.qmd">publications</a> (categorized by topic) and a collection of <a href="/resources.qmd">resources</a> that I've produced for other scientists to use.
 

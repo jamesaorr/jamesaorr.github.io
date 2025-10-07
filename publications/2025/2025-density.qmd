@@ -1,0 +1,10 @@
+---
+title: "Density dependence revisited: strong evidence for superlinear population growth"
+Year: 2025
+Authors: "Orr, J. A., Davis, K. E., Williams, A. H., Engelstädter, J., Stouffer, D. B., & Letten, A. D. "
+Journal: "EcoEvoRxiv"
+categories: [Theory, Microbial Ecology]
+doi: "https://doi.org/10.32942/X2F948"
+---
+
+Density dependence is a core principle in ecological and evolutionary theory, and yet the precise nature of the relationship between per capita growth and population size continues to ignite debate. While sublinear (convex/decelerating) density dependence is frequently observed in empirical studies, standard techniques for estimating density dependence are prone to unreliable inference. At the same time, the putative ubiquity of sublinearity in nature is at odds with the predictions of mechanistic models of resource competition. We used a continuous-culture approach, which bypasses the inferential challenges hindering conventional methods, in order to investigate the shape of density dependence in Escherichia coli. In agreement with the predictions of a model of resource competition empirically parameterised from independent growth assays, we found strong evidence for superlinear (concave/accelerating) density dependence. Despite the simplicity of our experimental system, we hypothesise that the evidence for sublinearity as a widespread phenomenon is less robust than widely assumed. Resolving this debate has significant implications for our fundamental understanding of ecosystem stability and the development of reliable models informing conservation and resource management.

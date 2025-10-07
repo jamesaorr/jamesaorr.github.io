@@ -1,0 +1,10 @@
+---
+title: "Hypothesis-driven research on multiple stressors: an analytical framework for stressor interactions"
+Year: 2025
+Authors: "Madge Pimentel, I., Albini, D., Beermann, A. J., Leese, F., Macaulay, S. J., Matthaei, C. D., Orr, J. A., Piggott, J. J., Schäfer, R. B."
+Journal: "Ecology and Evolution"
+categories: [Methods, Multiple Stressors, Global Change Biology]
+doi: " https://doi.org/10.1002/ece3.71959"
+---
+
+Identifying and characterizing stressor interactions is central to multiple stressor research. Such interactions refer to stronger (synergism) or weaker (antagonism) joint effects of co-occurring stressors on biological entities, when compared to the predictions of a theoretical null model. Various null models have been developed, and the selection of the most appropriate null model for a specific research question is ideally based on assumptions on co-tolerance patterns in communities and mechanisms of stressor effects. Statistical models are commonly used to evaluate the statistical significance of interaction terms. However, they introduce constraints by imposing a specific null hypothesis on stressor combinations that cannot be flexibly changed. This can introduce a mismatch between the null model that the analyst wants to test and the one imposed by the statistical model. Here, we show under which conditions the statistical null hypothesis for interaction terms misaligns with a multiple-stressor null model and propose to resolve such misalignments using post-estimation inference. Null-model specific interaction estimates can be calculated from adjusted predictions of a fitted regression model, and associated standard errors are derived using the delta method, posterior simulations, or bootstrapping. We illustrate the suggested approach with three case studies and validate statistical conclusions through data simulations. Post-estimation inference has the potential to advance hypothesis-driven research on stressor interactions by flexibly testing any a priori defined null model independent from regression model structure.

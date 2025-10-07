@@ -1,9 +1,20 @@
 [
   {
+    "listing": "/resources.html",
+    "items": [
+      "/resources/2025/2025-diversity-metrics.html",
+      "/resources/2024/2024-freshwater-stressors.html",
+      "/resources/2024/2024-community-properties.html",
+      "/resources/2021/2021-scaling-predictions.html"
+    ]
+  },
+  {
     "listing": "/publications.html",
     "items": [
       "/publications/2025/2025-coexistence.html",
+      "/publications/2025/2025-density.html",
       "/publications/2025/2025-ecosystems.html",
+      "/publications/2025/2025-hypothesis.html",
       "/publications/2025/2025-priced.html",
       "/publications/2025/2025-promise.html",
       "/publications/2024/2024-heatwaves.html",
@@ -18,15 +29,6 @@
       "/publications/2021/2021-mechanisms.html",
       "/publications/2021/2021-scaling.html",
       "/publications/2020/2020-towards.html"
-    ]
-  },
-  {
-    "listing": "/resources.html",
-    "items": [
-      "/resources/2025/2025-diversity-metrics.html",
-      "/resources/2024/2024-freshwater-stressors.html",
-      "/resources/2024/2024-community-properties.html",
-      "/resources/2021/2021-scaling-predictions.html"
     ]
   }
 ]
